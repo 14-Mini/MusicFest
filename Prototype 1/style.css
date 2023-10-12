@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.wrapper{
+    background: url(The\ Weekend.jpg) no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.wrapper0{
+    background: url(The-WeekndWallpaper.jpg) no-repeat;
+    background-size:cover;
+    height: 80%;
+}
+
+.wrapper0 h1{
+    text-align: left;
+    color: rgb(216, 207, 197);
+    padding-top: 17%;
+    padding-left: 6%;
+    font-weight: bold;
+    font-size: 50;
+}
+
+.wrapper0 pre{
+    padding-top: 1%;
+    text-align: left;
+    color: rgb(185, 84, 84);
+    font-size: 20;
+}
+
+.wrapper1{
+    background-color: rgb(180, 52, 52);
+    background-size: cover;
+    height: 24vh;
+    text-align: center;
+}
+
+.wrapper2{
+    background-color: rgb(180, 52, 52);
+    background-size: cover;
+    height: 20vh;
+    text-align: center;
+}
+
+.wrapper2 p{
+    color: white;
+}
+
+.wrapper1 h1{
+    color: rgb(20, 19, 19);
+    padding-top: 4%;
+}
+
+.wrapper1 pre{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 18;
+}
+
+.wrapper3{
+    background-color: rgb(180, 52, 52);
+    background-size: cover;
+    height: 20vh;
+    text-align: center;
+}
+
+.wrapper3 p{
+    color: rgb(243, 242, 242);
+}
+
+.wrapper4{
+    background-color: black;
+    height: 10%;
+    font-size: 10;
+    padding-top: 80;
+    padding-bottom: 0%;
+
+}
+
+.wrapper4 p{
+    color: white;
+    text-align:center;
+    padding-top: 2%;
+}
+
+.wrapper4 pre{
+    color: white;
+    text-align:center;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.wrapper5{
+    background-color: rgb(180, 52, 52);
+    background-size: cover;
+    height: 20vh;
+    text-align: center;
+}
+
+.wrapper5 pre{
+    color: #0c0e8a;
+    text-align: center;
+}
+
+
+.navbar{
+    height: 100vh;
+    width: 100%;
+    background: rgba(0,0,0,0.3);
+}
+
+.undernav{
+    background: rgb(116, 57, 57);
+    position: absolute;
+    text-align: center;
+    padding: 10 20px;
+    font-size: 14px;
+}
+
+.undernav pre{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo{
+    background: transparent;
+    width: 100px;
+    height: auto;
+    padding: 10px 60px;
+}
+
+.navbar ul{
+    float: right;
+    margin-right: 50px;
+    line-height: 100px;
+    margin-right: 225px;
+}
+
+.butt{
+    background: transparent;
+    color: white;
+    font-size: 14px ;
+    font-style: normal;
+    border-color: transparent;
+    border-radius: none;
+    display: inline-block;
+    margin: 0 px;
+    padding: 10px 24px;    
+    transition-duration:0.5s;
+    cursor: pointer;
+}
+
+.butt:hover{
+    background-color: rgb(201, 48, 48);
+    color: white;
+}
+
+.wrapper .center{
+    font-size: 15px;
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    user-select: none;
+    
+}
+
+.center h1{
+    color: rgb(235, 208, 208);
+    font-size: 80px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center h2{
+    color: rgb(185, 127, 127);
+    font-size: 11px;
+    padding-bottom: 2%;
+}
+
+.CenBut{
+    background: transparent;
+    color: white;
+    font-size: 24px ;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: white;
+    margin: 0 px;
+    border-radius: 20px;
+    padding: 9px 30px;    
+    transition-duration:0.5s;
+    cursor: pointer;
+}
+
+.CenBut:hover{
+    background-color:springgreen;
+}
